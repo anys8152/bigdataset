@@ -1,4 +1,4 @@
-"weekend","num.child","distance","rides","games","wait","clean","overall"
+"weekend","num.child","distance","Temp","Hum","wait","Air1","Air2"
 "yes",0,114.648259456509,87,73,60,89,47
 "yes",2,27.014096967367,87,78,76,87,65
 "no",1,63.3009751958477,85,80,70,88,61
